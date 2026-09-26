@@ -1,0 +1,6 @@
+{
+  "name": "Adrenaline - Minecraft SMP Store",
+  "description": "Premium Minecraft SMP Store and Community Portal for Adrenaline SMP. Ranks, exclusive perks, server stats, and staff directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
